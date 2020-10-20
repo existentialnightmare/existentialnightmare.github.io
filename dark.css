@@ -1,3 +1,9 @@
-body{background-color: black}
+body
+{
+background-color: black;
+color: coral;
+font-family: "Lucida Console", serif, Courier;
 
-h1 {color: coral}
+
+
+}
