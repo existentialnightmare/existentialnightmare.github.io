@@ -5,3 +5,10 @@ color: coral;
 font-family: "Lucida Console", serif, Courier;
 }
 a{color: white;}
+html {
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25rem;
+}
